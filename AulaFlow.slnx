@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="src/AulaFlow.Desktop/AulaFlow.Desktop.csproj" />
+  <Project Path="tests/AulaFlow.Tests/AulaFlow.Tests.csproj" />
+</Solution>
